@@ -10,7 +10,7 @@ namespace GitExercise
 
         public static void Add(double a, double b)
         {
-            Console.WriteLine($"{a} + {b} = {a + b}");
+            Console.WriteLine($"{a} - {b} = {a - b}");
         }
 
        
